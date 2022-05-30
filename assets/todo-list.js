@@ -3,7 +3,7 @@ $(document).ready(function(){
 
   var form = $("#todo-table");
 
-  console.log("form: ", form)
+  // console.log("form: ", form)
 
   $('form').on('submit', function(){
 
